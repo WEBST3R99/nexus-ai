@@ -1,0 +1,3 @@
+right click on inside this folder and then open terminal
+
+command - python -m streamlit run app.py
